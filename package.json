@@ -10,5 +10,9 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/figlet": "^1.5.8",
+    "figlet": "^1.7.0"
   }
 }
